@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="Goals.md">
+
+    <toc-element topic="Goals.md"/>
+    <toc-element topic="Building-a-dotnet-app-with-Nix.md"/>
+    <toc-element topic="Dockerizing-a-Dotnet-app-with-Nix.md"/>
+    <toc-element topic="Dealing-with-project-dependencies.md"/>
+</instance-profile>
